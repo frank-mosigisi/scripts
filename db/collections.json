@@ -1,0 +1,56 @@
+{
+    "_id": {
+      "$oid": "6531a604cdc836c7728162e4"
+    },
+    "erc721Address": "0x75663d6c21b48993b3b31ed5021022410d0cecca",
+    "collectionName": "yes baba",
+    "description": "Munga and wakadinali",
+    "categories": [],
+    "logoImageHash": "QmYBZ68LKbQPEHhHcY3rBpTnEGXxs2zM78K4CvoqApRWQR",
+    "owner": "0x7f5aa3656b9291b9f3eea4916282f08dda68a348",
+    "feeRecipient": "0x4c0d27c362afbdf3fb7fae9abccd4912da3f2958",
+    "royalty": 0,
+    "discord": "",
+    "email": "Test703er@gmail.com",
+    "telegram": "",
+    "siteUrl": "",
+    "mediumHandle": "",
+    "twitterHandle": "",
+    "instagramHandle": "",
+    "isAppropriate": true,
+    "isInternal": true,
+    "isOwnerble": false,
+    "isVerified": false,
+    "status": true,
+    "appropriateUpdate": {
+      "$date": "2023-10-19T21:56:20.037Z"
+    }
+  }
+  {
+    "_id": {
+      "$oid": "653253d89386676ec00a9b70"
+    },
+    "erc721Address": "0x12e97a67e43755909a8de318a6c63994bb7dff46",
+    "collectionName": "Artangle collection",
+    "description": "awesome collection by me",
+    "categories": [],
+    "logoImageHash": "QmcTqejy7JsZDmNgQCGq6B5Yj8PRrYPiir1BdGKy62gp6N",
+    "owner": "0x7f5aa3656b9291b9f3eea4916282f08dda68a348",
+    "feeRecipient": "0x31d4320fb6adaef0a5334a05ccc03e0e99ba020b",
+    "royalty": 10,
+    "discord": "",
+    "email": "Test703er@gmail.com",
+    "telegram": "",
+    "siteUrl": "",
+    "mediumHandle": "",
+    "twitterHandle": "",
+    "instagramHandle": "",
+    "isAppropriate": true,
+    "isInternal": true,
+    "isOwnerble": false,
+    "isVerified": false,
+    "status": true,
+    "appropriateUpdate": {
+      "$date": "2023-10-20T10:18:00.379Z"
+    }
+  }
