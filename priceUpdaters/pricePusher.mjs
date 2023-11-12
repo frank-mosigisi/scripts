@@ -57,7 +57,7 @@ async function updateSmartContractPrice() {
             // Calculate the price change percentage
             const priceChangePercentage = (price - lastPrice) / lastPrice * 100;
   
-            // Check if the price change is more than 2% or if 30 minutes have passed
+            // Check if the price change is more than 2% or if 1 hour passed
             if (priceChangePercentage > 2 || publishTime - lastUpdateTime >= 3600) {
               // Call the function to update the smart contract's price
               const tx = await priceOracleProxy.updatePrice(conf, price, publishTime);
