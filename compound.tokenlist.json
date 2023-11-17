@@ -1,0 +1,40 @@
+{
+  "name": "Compound",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2023-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1073,
+      "address": "0xFe3E420B5d17378be8D814107b619045263cCF80",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 1073,
+      "address": "0x89131F3EaC8455897645A2428b07E693DCd89407",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 1073,
+      "address": "0xBEb654A116aeEf764988DF0C6B4bf67CC869D01b",
+      "name": "Wrapped Shimmer",
+      "symbol": " WSMR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
